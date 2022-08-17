@@ -1,2 +1,2 @@
 # JavaSimpleTicTacToeGame
-second project with Jaca
+second project with Java
